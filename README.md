@@ -1,7 +1,7 @@
 # Spray Servo
 
 <img src="./spray-servo.png" alt="spray servo on action" width="400"/>
-<p>Upload the code from the spray-servo.ino file to an ESP-32 board and enjoy !</p>
+<p>Upload the code from the <a href="./spray-servo.ino">spray-servo.ino</a> file to an ESP-32 board and enjoy !</p>
 
 <h3>The code includes :</h3>
 <ul>
