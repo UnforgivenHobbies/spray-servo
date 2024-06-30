@@ -1,4 +1,4 @@
-<h1 style="font-size:150px;">Spray Servo</h1>
+<h1>Spray Servo</h1>
 
 <img src="./spray-servo.png" alt="spray servo on action" width="400"/>
 <p>Upload the code from the <a href="./spray-servo.ino">spray-servo.ino</a> file to an ESP-32 board and enjoy !</p>
