@@ -19,3 +19,6 @@
 <h3>3D Printed Parts</h3>
 Inside the <a href="./STL%20Files">STL Files</a> folder you will find all the necessary parts to print.
 Those parts are designed by <a href="https://www.thingiverse.com/aliekens/designs">Alikens</a> and this is the <a href="https://www.thingiverse.com/thing:4622176">original parts page</a>.
+
+<h3>Connections</h3>
+<img src="./" alt="drawing" width="400"/>
