@@ -1,6 +1,6 @@
 # Spray Servo
 
-<img src="./spray-servo.png" alt="drawing" width="400"/>
+<img src="./spray-servo.png" alt="spray servo on action" width="400"/>
 <p>Upload the code from the spray-servo.ino file to an ESP-32 board and enjoy !</p>
 
 <h3>The code includes :</h3>
@@ -21,4 +21,10 @@ Inside the <a href="./STL%20Files">STL Files</a> folder you will find all the ne
 Those parts are designed by <a href="https://www.thingiverse.com/aliekens/designs">Alikens</a> and this is the <a href="https://www.thingiverse.com/thing:4622176">original parts page</a>.
 
 <h3>Connections</h3>
-<img src="./" alt="drawing" width="400"/>
+
+<img src="./connections-diagram.png" alt="connections diagram" width="600"/>
+<ul>
+  <li>Connect the Signal Yellow/White cable of the servo on the GPIO 13 of the ESP-32 board.</li>
+  <li>Connect the Power Red cable of the servo with the one from the battery and the VIN Pin of the ESP-32 board which will also be powered by the battery.</li>
+  <li>Connect the Ground Black cable of the servo with the one from the battery and the GND Pin of the ESP-32 board.</li>
+</ul>
