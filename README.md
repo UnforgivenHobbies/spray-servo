@@ -23,6 +23,7 @@ Those parts are designed by <a href="https://www.thingiverse.com/aliekens/design
 <h3>Connections</h3>
 
 <img src="./connections-diagram.png" alt="connections diagram" width="600"/>
+<img src="./esp32-diagram.jpeg" alt="connections diagram" width="600"/>
 <ul>
   <li>Connect the Signal Yellow/White cable of the servo on the GPIO 13 of the ESP-32 board.</li>
   <li>Connect the Power Red cable of the servo with the one from the battery and the VIN Pin of the ESP-32 board which will also be powered by the battery.</li>
